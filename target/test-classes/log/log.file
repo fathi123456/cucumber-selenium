@@ -1,0 +1,4 @@
+2021-12-18 13:56:40,035 - com.e2eTests.automation.util.AbstractPage - INFO - Je me connecte sur l'application Orange HRM
+2021-12-18 13:56:44,536 - com.e2eTests.automation.util.AbstractPage - INFO - Je saisie le username
+2021-12-18 13:56:44,620 - com.e2eTests.automation.util.AbstractPage - INFO - je saisie le password
+2021-12-18 13:56:44,701 - com.e2eTests.automation.util.AbstractPage - INFO - Je clique sur le bouton Login
